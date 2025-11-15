@@ -4,12 +4,42 @@
 </h1>
 
 <p align="center">
-  <a href ="https://galalabdelbaset.github.io/Portfolio/">
-  <img src="https://komarev.com/ghpvc/?username=GalalAbdElBaset&color=blue" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/galal-abd-el-baset-galal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" class="social-links"></a>
-  
-  <a href="mailto:galalabdelbaset28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" class="social-links"></a>
+  <a href="https://galalabdelbaset.github.io/Portfolio/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=GalalAbdElBaset&color=blue" alt="Profile views" style="border-radius: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/galal-abd-el-baset-galal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" class="social-links" />
+  </a>
+  <a href="mailto:galalabdelbaset28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" class="social-links" />
+  </a>
 </p>
+
+<style>
+  /* تنسيق الأيقونات */
+  .social-links {
+    margin: 0 10px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+
+  /* التأثيرات عند مرور الماوس */
+  .social-links:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+  }
+
+  /* إضافة الأنميشن على صورة الزيارة */
+  img {
+    animation: fadeIn 2s ease-in-out;
+  }
+
+  /* تأثير الأنميشن على الصورة */
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
 
 ---
 
