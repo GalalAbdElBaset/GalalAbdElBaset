@@ -1,11 +1,12 @@
-<h1 align="center"> Hello, I'm Galal Abd El-Baset </h1>
-
-<h3 align="center"> Junior Front-End Developer | Passionate About Web Design | Problem Solver | React Enthusiast </h3>
+<h1 align="center">
+  <span style="animation: fadeIn 2s ease-in-out; color: #4CAF50;">Hello, I'm</span> 
+  <span style="animation: slideIn 2s ease-out; color: #FF5733;">Galal Abd El-Baset</span>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GalalAbdElBaset&color=blue" alt="Profile views" />
-  <a href="https://linkedin.com/in/galalabdelbaset"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:galalabdelbaset28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+  <a href="https://linkedin.com/in/galalabdelbaset"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" class="social-links"></a>
+  <a href="mailto:galalabdelbaset28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" class="social-links"></a>
 </p>
 
 ---
@@ -23,11 +24,11 @@ Currently, I’m diving deeper into **React**, **API Integration**, and **Versio
 
 ## 🌐 Socials
 
-[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" align="center" /> Discord](https://discord.gg/eng.galal_abdelbaset)
-[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="20" align="center" /> Facebook](https://facebook.com/GalalAbdElBaset)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" align="center" /> Instagram](https://instagram.com/galalabdelbaset)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" align="center" /> LinkedIn](https://linkedin.com/in/galalabdelbaset)
-[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="20" align="center" /> YouTube](https://youtube.com/@GalalAbdElBaset)
+[<img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" align="center" class="social-links"/> Discord](https://discord.gg/eng.galal_abdelbaset)
+[<img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="20" align="center" class="social-links"/> Facebook](https://facebook.com/GalalAbdElBaset)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20" align="center" class="social-links"/> Instagram](https://instagram.com/galalabdelbaset)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" align="center" class="social-links"/> LinkedIn](https://linkedin.com/in/galalabdelbaset)
+[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="20" align="center" class="social-links"/> YouTube](https://youtube.com/@GalalAbdElBaset)
 
 ---
 
@@ -75,12 +76,6 @@ Technologies: HTML, CSS, JavaScript
   <img src="https://github-readme-stats.vercel.app/api?username=GalalAbdElBaset&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=GalalAbdElBaset&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GalalAbdElBaset&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  ![Snake Animation](https://raw.githubusercontent.com/GalalAbdElBaset/GalalAbdElBaset/refs/heads/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ## 🏆 GitHub Trophies
