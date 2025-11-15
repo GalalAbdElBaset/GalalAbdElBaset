@@ -4,8 +4,10 @@
 </h1>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=GalalAbdElBaset](https://galalabdelbaset.github.io/Portfolio/)&color=blue" alt="Profile views" />
-  <a href="[https://linkedin.com/in/galalabdelbaset](https://www.linkedin.com/in/galal-abd-el-baset-galal/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" class="social-links"></a>
+  <a href ="https://galalabdelbaset.github.io/Portfolio/">
+  <img src="https://komarev.com/ghpvc/?username=GalalAbdElBaset&color=blue" alt="Profile views" /></a>
+  <a href="https://www.linkedin.com/in/galal-abd-el-baset-galal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" class="social-links"></a>
+  
   <a href="mailto:galalabdelbaset28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" class="social-links"></a>
 </p>
 
