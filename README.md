@@ -15,32 +15,6 @@
   </a>
 </p>
 
-<style>
-  /* تنسيق الأيقونات */
-  .social-links {
-    margin: 0 10px;
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-
-  /* التأثيرات عند مرور الماوس */
-  .social-links:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2);
-  }
-
-  /* إضافة الأنميشن على صورة الزيارة */
-  img {
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  /* تأثير الأنميشن على الصورة */
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
-
-
 ---
 
 ## 👩‍💻 About Me
